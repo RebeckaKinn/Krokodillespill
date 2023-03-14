@@ -1,0 +1,15 @@
+C:\Users\becka\Documents\Modul3\Krokodillespill\Krokodillespill\Krokodillespill\bin\Debug\net6.0\Krokodillespill.exe
+C:\Users\becka\Documents\Modul3\Krokodillespill\Krokodillespill\Krokodillespill\bin\Debug\net6.0\Krokodillespill.deps.json
+C:\Users\becka\Documents\Modul3\Krokodillespill\Krokodillespill\Krokodillespill\bin\Debug\net6.0\Krokodillespill.runtimeconfig.json
+C:\Users\becka\Documents\Modul3\Krokodillespill\Krokodillespill\Krokodillespill\bin\Debug\net6.0\Krokodillespill.dll
+C:\Users\becka\Documents\Modul3\Krokodillespill\Krokodillespill\Krokodillespill\bin\Debug\net6.0\Krokodillespill.pdb
+C:\Users\becka\Documents\Modul3\Krokodillespill\Krokodillespill\Krokodillespill\obj\Debug\net6.0\Krokodillespill.csproj.AssemblyReference.cache
+C:\Users\becka\Documents\Modul3\Krokodillespill\Krokodillespill\Krokodillespill\obj\Debug\net6.0\Krokodillespill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\becka\Documents\Modul3\Krokodillespill\Krokodillespill\Krokodillespill\obj\Debug\net6.0\Krokodillespill.AssemblyInfoInputs.cache
+C:\Users\becka\Documents\Modul3\Krokodillespill\Krokodillespill\Krokodillespill\obj\Debug\net6.0\Krokodillespill.AssemblyInfo.cs
+C:\Users\becka\Documents\Modul3\Krokodillespill\Krokodillespill\Krokodillespill\obj\Debug\net6.0\Krokodillespill.csproj.CoreCompileInputs.cache
+C:\Users\becka\Documents\Modul3\Krokodillespill\Krokodillespill\Krokodillespill\obj\Debug\net6.0\Krokodillespill.dll
+C:\Users\becka\Documents\Modul3\Krokodillespill\Krokodillespill\Krokodillespill\obj\Debug\net6.0\refint\Krokodillespill.dll
+C:\Users\becka\Documents\Modul3\Krokodillespill\Krokodillespill\Krokodillespill\obj\Debug\net6.0\Krokodillespill.pdb
+C:\Users\becka\Documents\Modul3\Krokodillespill\Krokodillespill\Krokodillespill\obj\Debug\net6.0\Krokodillespill.genruntimeconfig.cache
+C:\Users\becka\Documents\Modul3\Krokodillespill\Krokodillespill\Krokodillespill\obj\Debug\net6.0\ref\Krokodillespill.dll
